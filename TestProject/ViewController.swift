@@ -1,10 +1,7 @@
 //
 //  ViewController.swift
 //  TestProject
-//
 //  Created by Asylzhan Yeldes on 02.06.2023.
-//
-
 import Cocoa
 
 class ViewController: NSViewController {
