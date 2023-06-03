@@ -21,8 +21,11 @@ class ViewController: NSViewController {
         }
     }
 
-    func someMethod(){
+    func someMethod() {
         
+    }
+    func setupView() {
+        view.window?.backgroundColor = .systemYellow
     }
 }
 
