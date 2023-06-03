@@ -21,6 +21,16 @@ class ViewController: NSViewController {
         }
     }
 
+    func someMethod() {
+        
+    }
+    func setupView() {
+        view.window?.backgroundColor = .systemYellow
+    }
+    func setupHierarhy() {
+        let newView = UIView()
+        view.addSubview(newView)
+    }
 
 }
 
